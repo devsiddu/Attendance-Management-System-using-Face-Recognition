@@ -1,0 +1,6 @@
+opencv-python
+pillow
+pandas
+numpy
+pymysql
+opencv-contrib-python
